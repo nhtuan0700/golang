@@ -1,0 +1,9 @@
+go 1.21.1
+
+use (
+	./2.web-service-gin
+	./3.data-access
+	./4.generics
+	./5.fuzz
+	./6.vuln-tutorial
+)
